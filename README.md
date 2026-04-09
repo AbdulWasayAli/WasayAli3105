@@ -2,9 +2,35 @@
 
 ## Aspiring Software Engineer | Flutter & Dart | Firebase & REST API Integration | Mobile App Developer | Passionate About Building Impactful Apps
 
-I am a Software Engineering student with a strong focus on building practical, user-friendly, and impactful applications. My work spans mobile app development, web development, and artificial intelligence, with an emphasis on clean code, real-world usability, and continuous learning.
+I'm Abdul Wasay Ali — a passionate Software Engineering student based in Karachi, Pakistan.
 
-I enjoy turning ideas into functional products and am always looking to improve my skills through hands-on projects and collaboration.
+ 
+
+I am currently pursuing a Diploma in Software Engineering, and continuing my Intermediate studies also from Aptech (SBTE).
+
+ 
+
+Through my academic journey, I have developed a strong passion for technology and real-world problem-solving.
+
+ 
+
+I have worked on multiple academic and personal projects that have strengthened my practical understanding of software development concepts.
+
+ 
+
+I am eager to apply my knowledge and skills to real-world projects and internships, while continuously improving myself in the field of software development.
+
+ 
+
+I am always eager to learn, build projects, and collaborate with others.
+
+ 
+
+Currently, I am looking for opportunities such as internships and projects to grow and gain experience in the tech industry.
+
+ 
+
+My goal is to become a skilled software engineer who contributes meaningfully to innovative and impactful technology solutions.
 
 ---
 
