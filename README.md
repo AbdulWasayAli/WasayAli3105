@@ -20,7 +20,7 @@ My goal is to become a skilled software engineer who contributes meaningfully to
 
 ---
 
-## 🎓 Education
+## Education
 
 **Intermediate & Diploma in Software Engineering** — Aptech Institute *(Continue)*
 
@@ -28,7 +28,7 @@ My goal is to become a skilled software engineer who contributes meaningfully to
 
 ---
 
-## 🚀 Core Expertise
+## Core Expertise
 
 - **Mobile App Development**
   - Flutter & Dart (Android-focused, responsive UI)
@@ -47,7 +47,7 @@ My goal is to become a skilled software engineer who contributes meaningfully to
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -68,19 +68,19 @@ My goal is to become a skilled software engineer who contributes meaningfully to
 
 ---
 
-## 📌 Featured Projects
+## Featured Projects
 
-### 🤟 Pakistan Sign Language (PSL) Translator App
+### Pakistan Sign Language (PSL) Translator App
 > A Flutter-based mobile app for real-time Pakistan Sign Language translation using MediaPipe and LSTM models. Bridges communication gaps for the hearing-impaired community in Pakistan.
 - **Tech:** Flutter, Python, FastAPI, MediaPipe, TensorFlow
 
-### 🌐 Web Development Projects
+### Web Development Projects
 > Multiple web applications built using PHP, Laravel, HTML/CSS, and JavaScript with MySQL database integration.
 - **Tech:** Laravel, PHP, MySQL, Bootstrap, JavaScript
 
 ---
 
-## 📫 Connect with Me
+## Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdul-wasay-ali-295480256)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/WasayAli3105)
