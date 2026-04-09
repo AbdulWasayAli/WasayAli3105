@@ -34,7 +34,17 @@ My goal is to become a skilled software engineer who contributes meaningfully to
 
 ---
 
-## 🚀 Core Expertise
+## 🎓 Education
+
+**Diploma in Software Engineering** — Aptech Pakistan (SBTE) *(2024 – 2027)*
+
+**Intermediate** — Aptech Pakistan (SBTE) *(In Progress)*
+
+**Matriculation (Science Group)** — Dehli Government Boys Secondary School, Karachi
+
+---
+
+## Core Expertise
 
 - **Mobile App Development**
   - Flutter & Dart (Android-focused, responsive UI)
@@ -50,12 +60,7 @@ My goal is to become a skilled software engineer who contributes meaningfully to
   - MySQL & SQL Server
   - ASP.NET MVC & C#
   - .NET Framework
-
-- **AI & Emerging Tech**
-  - Machine Learning Fundamentals
-  - Python & Data Science (Learning)
-  - MediaPipe & Gesture Recognition
-
+ 
 ---
 
 ## 🛠️ Tech Stack
@@ -69,31 +74,20 @@ My goal is to become a skilled software engineer who contributes meaningfully to
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
-## 📌 Featured Projects
+## Featured Projects
 
-### 🤟 Pakistan Sign Language (PSL) Translator App
+### Pakistan Sign Language (PSL) Translator App
 > A Flutter-based mobile app for real-time Pakistan Sign Language translation using MediaPipe and LSTM models. Bridges communication gaps for the hearing-impaired community in Pakistan.
 - **Tech:** Flutter, Python, FastAPI, MediaPipe, TensorFlow
 
-### 🌐 Web Development Projects
+### Web Development Projects
 > Multiple web applications built using PHP, Laravel, HTML/CSS, and JavaScript with MySQL database integration.
 - **Tech:** Laravel, PHP, MySQL, Bootstrap, JavaScript
-
----
-
-## 🎓 Education
-
-**Diploma in Software Engineering** — Aptech Pakistan (SBTE) *(2024 – 2027)*
-
-**Intermediate** — Aptech Pakistan (SBTE) *(In Progress)*
-
-**Matriculation (Science Group)** — Dehli Government Boys Secondary School, Karachi
 
 ---
 
