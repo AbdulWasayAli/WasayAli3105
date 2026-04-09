@@ -4,31 +4,17 @@
 
 I'm Abdul Wasay Ali — a passionate Software Engineering student based in Karachi, Pakistan.
 
- 
-
 I am currently pursuing a Diploma in Software Engineering, and continuing my Intermediate studies also from Aptech (SBTE).
-
- 
 
 Through my academic journey, I have developed a strong passion for technology and real-world problem-solving.
 
- 
-
 I have worked on multiple academic and personal projects that have strengthened my practical understanding of software development concepts.
-
- 
 
 I am eager to apply my knowledge and skills to real-world projects and internships, while continuously improving myself in the field of software development.
 
- 
-
 I am always eager to learn, build projects, and collaborate with others.
 
- 
-
 Currently, I am looking for opportunities such as internships and projects to grow and gain experience in the tech industry.
-
- 
 
 My goal is to become a skilled software engineer who contributes meaningfully to innovative and impactful technology solutions.
 
@@ -36,15 +22,13 @@ My goal is to become a skilled software engineer who contributes meaningfully to
 
 ## 🎓 Education
 
-**Diploma in Software Engineering** — Aptech Pakistan (SBTE) *(2024 – 2027)*
+**Intermediate & Diploma in Software Engineering** — Aptech Institute *(Continue)*
 
-**Intermediate** — Aptech Pakistan (SBTE) *(In Progress)*
-
-**Matriculation (Science Group)** — Dehli Government Boys Secondary School, Karachi
+**Matriculation (Science Group - Biology)** — Dehli Government Boys Secondary School, Karachi *(2020 – 2021)*
 
 ---
 
-## Core Expertise
+## 🚀 Core Expertise
 
 - **Mobile App Development**
   - Flutter & Dart (Android-focused, responsive UI)
@@ -60,7 +44,7 @@ My goal is to become a skilled software engineer who contributes meaningfully to
   - MySQL & SQL Server
   - ASP.NET MVC & C#
   - .NET Framework
- 
+
 ---
 
 ## 🛠️ Tech Stack
@@ -79,13 +63,13 @@ My goal is to become a skilled software engineer who contributes meaningfully to
 
 ---
 
-## Featured Projects
+## 📌 Featured Projects
 
-### Pakistan Sign Language (PSL) Translator App
+### 🤟 Pakistan Sign Language (PSL) Translator App
 > A Flutter-based mobile app for real-time Pakistan Sign Language translation using MediaPipe and LSTM models. Bridges communication gaps for the hearing-impaired community in Pakistan.
 - **Tech:** Flutter, Python, FastAPI, MediaPipe, TensorFlow
 
-### Web Development Projects
+### 🌐 Web Development Projects
 > Multiple web applications built using PHP, Laravel, HTML/CSS, and JavaScript with MySQL database integration.
 - **Tech:** Laravel, PHP, MySQL, Bootstrap, JavaScript
 
