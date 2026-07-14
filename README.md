@@ -1,169 +1,152 @@
-<h1 align="center">Assalam-o-Alaikum, I'm Abdul Wasay Ali 👋</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Aspiring+Software+Engineer;Flutter+%26+Dart+Developer;Firebase+%26+REST+API+Integration;MERN+Stack+Developer;Building+PSL+AI+Translator+%F0%9F%A4%9F" alt="Typing SVG" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e1b4b,100:0891b2&height=220&section=header&text=Abdul%20Wasay%20Ali&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Aspiring%20Software%20Engineer%20%7C%20Flutter%20%26%20MERN%20Stack&descAlignY=55&descSize=20" width="100%"/>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:06B6D4&height=180&section=header&text=Welcome%20To%20My%20Profile&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
-</p>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=26&duration=3000&pause=1000&color=06B6D4&center=true&vCenter=true&multiline=true&width=750&height=100&lines=Software+Engineering+Diploma+Student;Flutter+%7C+MERN+Stack+%7C+AI%2FML+Enthusiast;Building+Pakistan+Sign+Language+Translator;Always+Eager+to+Learn+%26+Ship+Projects" alt="Typing SVG" />
+</a>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/abdul-wasay-ali-295480256">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/WasayAli3105">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="mailto:wasay3105@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+<br/>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=WasayAli3105&label=Profile%20Views&color=06B6D4&style=flat" />
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdul-wasay-ali-295480256)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/WasayAli3105)
+[![Gmail](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wasay3105@gmail.com)
 
----
+<img src="https://komarev.com/ghpvc/?username=WasayAli3105&label=Profile%20Views&color=0891b2&style=for-the-badge" alt="profile views"/>
 
-### 👨‍💻 About Me
+</div>
 
-I'm Abdul Wasay Ali — a passionate **Software Engineering** student based in Karachi, Pakistan.
+<br/>
 
-- 🎓 Pursuing a **Diploma in Software Engineering** at Aptech, alongside Intermediate studies (SBTE)
-- 💻 Strong practical foundation from multiple academic and personal projects
-- 🤟 Building a **Pakistan Sign Language (PSL) AI Translator** to bridge communication gaps for the hearing-impaired community
-- 🌱 Currently exploring **MERN Stack**, **role-based systems**, and **3D web (Three.js)**
-- 📫 Actively looking for **internships and projects** to grow in the tech industry
-- 🎯 Goal: become a skilled software engineer contributing to impactful technology solutions
+## 🧭 About Me
 
----
+\`\`\`yaml
+name: "Abdul Wasay Ali"
+location: "Karachi, Pakistan 🇵🇰"
+education: "Software Engineering Diploma — Aptech (ACCP Prime)"
+specialization: "AI Specialization Track"
+currently_building: "Job Portal & Freelance Marketplace (MERN + 3D UI)"
+looking_for: "Internships & Collaborative Projects"
+fun_fact: "Trained an LSTM model on Pakistan Sign Language 🤟"
+\`\`\`
 
-### 🎓 Education
+<br/>
 
-| Program | Institute | Status |
-|---|---|---|
-| Diploma in Software Engineering + Intermediate | Aptech Pakistan (SBTE) | Ongoing |
-| Matriculation (Science - Biology) | Dehli Government Boys Secondary School, Karachi | 2020 – 2021 |
+## ⚡ Tech Arsenal
 
----
+<div align="center">
 
-### 🛠️ Tech Stack
+### Frontend
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bootstrap,flutter,dart&theme=dark" /><br/><br/>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,cs,dotnet,angular,php,laravel,flutter,dart,firebase,tailwind,threejs,git,figma&perline=8" />
-</p>
+### Backend & Database
+<img src="https://skillicons.dev/icons?i=nodejs,express,laravel,php,mongodb,mysql,cs,dotnet&theme=dark" /><br/><br/>
 
-<details>
-<summary>📌 Full badge list</summary>
-<br>
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-</p>
-</details>
+### Tools & AI/ML
+<img src="https://skillicons.dev/icons?i=git,github,figma,vscode,firebase,postman,tensorflow,py&theme=dark" />
 
----
+</div>
 
-### 📌 Featured Projects
+<br/>
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🤟 Pakistan Sign Language (PSL) AI Translator</h4>
-      <p>Flutter-based mobile app for real-time PSL translation using MediaPipe Holistic landmark extraction and LSTM models. Bridges communication gaps for the hearing-impaired community in Pakistan. Entered in the YIC (Youth Innovation Challenge).</p>
-      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
-      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
-    </td>
-    <td width="50%" valign="top">
-      <h4>📚 Smart Library System</h4>
-      <p>Full MERN stack library management system with authentication, MVC structure, and role-based access.</p>
-      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/>
-      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>💼 Job Portal / Freelance Marketplace</h4>
-      <p>Role-based platform (Job Seekers & Employers) with MVC backend architecture, Tailwind CSS, and Three.js 3D elements.</p>
-      <img src="https://img.shields.io/badge/MERN-Stack-06B6D4?style=flat-square"/>
-      <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white"/>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🚗 Car Management System</h4>
-      <p>CRUD app with image upload (Multer), built with structured Mongoose schema design.</p>
-      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Multer-FF5722?style=flat-square"/>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🏦 Nexus Bank Admin Panel</h4>
-      <p>Vanilla HTML/CSS/JS admin dashboard with responsive layout and refined scroll interactions.</p>
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🌐 Web Development Projects</h4>
-      <p>Multiple web applications built using PHP, Laravel, HTML/CSS, and JavaScript with MySQL database integration.</p>
-      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/>
-      <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
-    </td>
-  </tr>
+## 🌟 Featured Projects
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### 🤟 PSL AI Translator
+**Pakistan Sign Language → Text/Speech**
+
+Real-time translator built with MediaPipe Holistic landmark extraction, LSTM model training, and data augmentation across 3000+ words, wrapped in a Flutter app with Firebase auth.
+
+\`Flutter\` \`Python\` \`Flask\` \`MediaPipe\` \`TensorFlow\`
+
+🏆 *Entered in Youth Innovation Challenge (YIC)*
+
+</td>
+<td width="50%" valign="top">
+
+### 📚 Smart Library System
+**Full MERN Stack Application**
+
+Library management system with role-based access, RESTful API architecture, MongoDB backend, and glassmorphism auth UI.
+
+\`MongoDB\` \`Express\` \`React\` \`Node.js\` \`JWT\`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 💼 Job Portal & Freelance Marketplace
+**In Progress**
+
+Dual-role platform (Job Seekers & Employers), MVC architecture, 3D frontend with Three.js, dark/light "Signal" theme.
+
+\`React\` \`Three.js\` \`Tailwind\` \`Node.js\`
+
+</td>
+<td width="50%" valign="top">
+
+### 🚗 Car Management System
+**MERN CRUD Application**
+
+Vehicle management system with image upload via Multer and structured Mongoose schemas.
+
+\`MongoDB\` \`Express\` \`React\` \`Multer\`
+
+</td>
+</tr>
 </table>
 
----
+<br/>
 
-### 📊 GitHub Stats
+## 📊 GitHub Analytics
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=WasayAli3105&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WasayAli3105&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+<div align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=WasayAli3105&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=06B6D4&icon_color=F59E0B&text_color=c9d1d9" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WasayAli3105&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=06B6D4&text_color=c9d1d9" />
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=WasayAli3105&theme=tokyonight&hide_border=true" />
-</p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=WasayAli3105&theme=tokyonight&hide_border=true&background=0D1117&ring=06B6D4&fire=F59E0B" />
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=WasayAli3105&theme=tokyo-night&hide_border=true" />
-</p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=WasayAli3105&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=06B6D4&line=F59E0B&point=ffffff" width="100%"/>
+</div>
 
----
+<br/>
 
-### 🐍 Contribution Snake
+## 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/WasayAli3105/WasayAli3105/output/github-contribution-grid-snake-dark.svg" />
-</p>
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=WasayAli3105&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=1" />
+</div>
 
----
+<br/>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:0F172A&height=100&section=footer" />
-</p>
+## 🎓 Academic Record
 
-<p align="center"><i>"Always eager to learn, build, and collaborate." 🚀</i></p>
+<div align="center">
+
+| Term | Grade | Score | Practical | Key Subjects |
+|:---:|:---:|:---:|:---:|:---|
+| Term 2 | 🥇 Distinction | 86/100 | ✅ Perfect | Core Programming |
+| Term 3 | 🥇 Distinction | 82/100 | ✅ Perfect | SQL Server, C#, Angular, TypeScript, ASP.NET CORE MVC |
+
+</div>
+
+<br/>
+
+<div align="center">
+
+## 🤝 Let's Connect
+
+I'm actively looking for **internships** — let's talk!
+
+[![LinkedIn](https://img.shields.io/badge/Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdul-wasay-ali-295480256)
+[![Gmail](https://img.shields.io/badge/Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wasay3105@gmail.com)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891b2,50:1e1b4b,100:0f172a&height=120&section=footer" width="100%"/>
+
+**"Always eager to learn, build, and collaborate."**
+
+</div>
