@@ -1,91 +1,150 @@
-# Abdul Wasay Ali
+<div align="center">
 
-## Aspiring Software Engineer | Flutter & Dart | Firebase & REST API Integration | Mobile App Developer | Passionate About Building Impactful Apps
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:00C2CB&height=220&section=header&text=Abdul%20Wasay%20Ali&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Software%20Engineer%20%7C%20Flutter%20%26%20MERN%20Developer&descAlignY=58&descSize=18" width="100%"/>
 
-I'm Abdul Wasay Ali — a passionate Software Engineering student based in Karachi, Pakistan.
+<a href="https://www.linkedin.com/in/abdul-wasay-ali-295480256">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://github.com/WasayAli3105">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="mailto:wasay3105@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-I am currently pursuing a Diploma in Software Engineering, and continuing my Intermediate studies also from Aptech (SBTE).
+<br/>
 
-Through my academic journey, I have developed a strong passion for technology and real-world problem-solving.
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=24&duration=3000&pause=800&color=00C2CB&center=true&vCenter=true&width=650&lines=Software+Engineering+Diploma+Student+%40+Aptech;Flutter+%2B+MERN+Stack+Developer;Building+the+PSL+AI+Translator+%F0%9F%A4%9F;Open+to+Internships+%26+Collaborations+%F0%9F%9A%80" alt="Typing SVG"/>
 
-I have worked on multiple academic and personal projects that have strengthened my practical understanding of software development concepts.
+</div>
 
-I am eager to apply my knowledge and skills to real-world projects and internships, while continuously improving myself in the field of software development.
+<br/>
 
-I am always eager to learn, build projects, and collaborate with others.
+## 👋 About Me
 
-Currently, I am looking for opportunities such as internships and projects to grow and gain experience in the tech industry.
+I'm a Software Engineering Diploma student at **Aptech Pakistan (ACCP Prime)**, based in Karachi, currently pursuing my 3-year diploma with an **AI specialization**, alongside Intermediate studies under SBTE.
 
-My goal is to become a skilled software engineer who contributes meaningfully to innovative and impactful technology solutions.
+- 🔭 Currently building a **Job Portal / Freelance Marketplace** — MERN stack with role-based access, Three.js visuals, and a signature "Signal" dark/light theme
+- 🤟 Deeply invested in the **Pakistan Sign Language (PSL) AI Translator** — Flutter + Python/Flask + MediaPipe + LSTM
+- 📈 Academic record: **Term 2 — Distinction (86/100)**, **Term 3 — Distinction (82/100)**, both with perfect Practicals
+- 🌱 Currently sharpening React.js, MERN architecture, and applied ML pipelines
+- 💬 Ask me about Flutter, Firebase, MERN stack, or sign-language ML pipelines
+- 📫 Reach me at **wasay3105@gmail.com**
+- ⚡ Fun fact: I like sharing every milestone on LinkedIn — from transcripts to shipped projects!
 
----
+<br/>
 
-## Education
+## 🛠️ Tech Stack
 
-**Intermediate & Diploma in Software Engineering** — Aptech Institute *(Continue)*
+<div align="center">
 
-**Matriculation (Science Group - Biology)** — Dehli Government Boys Secondary School, Karachi *(2020 – 2021)*
-
----
-
-## Core Expertise
-
-- **Mobile App Development**
-  - Flutter & Dart (Android-focused, responsive UI)
-  - Firebase Integration & REST API
-  - Provider State Management
-
-- **Web Development**
-  - HTML5, CSS3, JavaScript
-  - PHP & Laravel Framework
-  - Bootstrap
-
-- **Backend & Database**
-  - MySQL & SQL Server
-  - ASP.NET MVC & C#
-  - .NET Framework
-
----
-
-## Tech Stack
-
+### Languages & Frameworks
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+
+### Backend & Database
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+### AI / ML & Tools
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
----
+</div>
 
-## Featured Projects
+<br/>
 
-### Pakistan Sign Language (PSL) Translator App
-> A Flutter-based mobile app for real-time Pakistan Sign Language translation using MediaPipe and LSTM models. Bridges communication gaps for the hearing-impaired community in Pakistan.
-- **Tech:** Flutter, Python, FastAPI, MediaPipe, TensorFlow
+## 🚀 Featured Projects
 
-### Web Development Projects
-> Multiple web applications built using PHP, Laravel, HTML/CSS, and JavaScript with MySQL database integration.
-- **Tech:** Laravel, PHP, MySQL, Bootstrap, JavaScript
+### 🤟 Pakistan Sign Language (PSL) AI Translator
+Real-time PSL translation app bridging communication gaps for the hearing-impaired community in Pakistan — built from dataset collection to deployed model.
+- **Stack:** Flutter · Python · Flask · MediaPipe Holistic · TensorFlow/Keras · LSTM
+- Full ML pipeline: landmark extraction → data augmentation → LSTM training → Urdu label mapping → `/predict` API
+- Entered in the **Youth Innovation Challenge (YIC)** with teammate Mudabbir Ali
 
----
+### 📚 Smart Library Management System
+Full MERN stack library system with authentication and clean glassmorphism UI.
+- **Stack:** MongoDB · Express · React · Node.js
 
-## Connect with Me
+### 💼 Job Portal / Freelance Marketplace *(In Progress)*
+Role-based platform for Job Seekers & Employers with an MVC backend and a distinctive 3D frontend.
+- **Stack:** MERN · Tailwind CSS · Three.js (`@react-three/fiber`, `@react-three/drei`) · Dark/Light "Signal" theme
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdul-wasay-ali-295480256)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/WasayAli3105)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wasay3105@gmail.com)
+### 🚗 Car Management System
+CRUD-based vehicle management app with image uploads.
+- **Stack:** MERN · Multer
 
----
+> 💡 **Tip:** GitHub par apne top repos ko pin karein (Profile → Customize your pins), ye README un ke bilkul upar sit karega.
 
-*"Always eager to learn, build, and collaborate."*
+<br/>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=WasayAli3105&show_icons=true&theme=tokyonight&hide_border=true&title_color=00C2CB&icon_color=00C2CB&text_color=c9d1d9&bg_color=0d1117"/>
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=WasayAli3105&theme=tokyonight&hide_border=true&background=0d1117&stroke=00C2CB&ring=00C2CB&fire=00C2CB&currStreakLabel=00C2CB"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WasayAli3105&layout=compact&theme=tokyonight&hide_border=true&title_color=00C2CB&text_color=c9d1d9&bg_color=0d1117"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=WasayAli3105&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00C2CB&line=00C2CB&point=ffffff" width="90%"/>
+
+</div>
+
+<br/>
+
+## 🏆 Trophies
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=WasayAli3105&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1"/>
+</div>
+
+<br/>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/WasayAli3105/WasayAli3105/output/github-contribution-grid-snake-dark.svg" width="90%"/>
+</div>
+
+<br/>
+
+<div align="center">
+
+### 🎓 Education
+**Software Engineering Diploma (ACCP Prime, AI Specialization)** — Aptech Pakistan · *In Progress*
+**Matriculation (Science/Biology)** — Dehli Government Boys Secondary School, Karachi *(2020–2021)*
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2CB,50:2C5364,100:0F2027&height=120&section=footer"/>
+
+**"Always eager to learn, build, and collaborate."**
+
+</div>
